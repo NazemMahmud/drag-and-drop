@@ -1,0 +1,5 @@
+https://dev.to/abhishekraj272/mastering-drag-n-drop-api-in-html-js-36a9
+https://learnvue.co/tutorials/vue-drag-and-drop
+https://stackoverflow.com/questions/26283661/drag-drop-with-handle
+https://thewebdev.info/2021/05/15/how-to-disable-drag-and-drop-on-html-elements/
+http://jsfiddle.net/U55rc/
